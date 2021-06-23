@@ -1,0 +1,2 @@
+D:\C++\FT232\Debug\FT232.exe
+D:\C++\FT232\Debug\FT232.pdb

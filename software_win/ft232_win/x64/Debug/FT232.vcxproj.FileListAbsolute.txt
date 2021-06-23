@@ -1,0 +1,4 @@
+D:\FT232ALL\FT232\x64\Debug\FT232.exe
+D:\FT232ALL\FT232\x64\Debug\FT232.pdb
+C:\Working\FT232ALL\FT232\x64\Debug\FT232.exe
+C:\Working\FT232ALL\FT232\x64\Debug\FT232.pdb

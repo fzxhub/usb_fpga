@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Working\FT232ALL\FT232\main.cpp(38,16): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“FT_HANDLE”
+C:\Working\FT232ALL\FT232\main.cpp(38,16): warning C4313: “printf”: 格式字符串中的“%X”与“FT_HANDLE”类型的参数 1 冲突
+C:\Working\FT232ALL\FT232\main.cpp(58,22): warning C4101: “temp”: 未引用的局部变量
+    正在创建库 C:\Working\FT232ALL\FT232\x64\Debug\FT232.lib 和对象 C:\Working\FT232ALL\FT232\x64\Debug\FT232.exp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4217: 符号“printf”(在“ main.obj”中定义)已由“ftd2xx.lib(devcon.obj)”(函数“"int __cdecl DumpDeviceWithInfo(void *,struct _SP_DEVINFO_DATA *,char const *)" (?DumpDeviceWithInfo@@YAHPEAXPEAU_SP_DEVINFO_DATA@@PEBD@Z)”中)导入
+ftd2xx.lib(devcon.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(devcon.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(EEDATA.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(EEDATA.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(FTD2XX.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(FTD2XX.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(FTE2DATA.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(FTE2DATA.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(FTEE2232.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(FTEE2232.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(ftee2232h.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(ftee2232h.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(FTEE232.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(FTEE232.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(ftee232h.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(ftee232h.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(FTEE232R.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(FTEE232R.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(ftee4232h.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(ftee4232h.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(fteeftx.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(fteeftx.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ftd2xx.lib(SERIALNO.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ftd2xx.lib(SERIALNO.obj)”或在“C:\Working\FT232ALL\FT232\x64\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  FT232.vcxproj -> C:\Working\FT232ALL\FT232\x64\Debug\FT232.exe
